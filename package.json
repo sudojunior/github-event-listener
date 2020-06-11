@@ -1,0 +1,13 @@
+{
+  "name": "github-event-listener",
+  "version": "1.0.0",
+  "description": "A module to listen in on the public event feed.",
+  "main": "src/index.js",
+  "repository": "https://github.com/sudojunior/github-event-listener.git",
+  "author": "Junior <sudojunior@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
